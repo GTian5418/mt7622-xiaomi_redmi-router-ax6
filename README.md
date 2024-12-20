@@ -1,4 +1,4 @@
-# mt7622-xiaomi_redmi-router-ax6
+# mt7622-xiaomi_redmi-router-ax6s
 1.通过MIWIFIRepairTool刷入0-1.2.7.bin  
 2.进入管理器后台获取SN  
 3.root密码计算:https://miwifi.dev/ssh  
